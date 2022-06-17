@@ -1,6 +1,7 @@
 ##Olá, eu sou o Eduardo!!
 
-
+- Estudando React
+- Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/eduardo-boni">
