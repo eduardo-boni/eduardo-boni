@@ -1,6 +1,6 @@
 ##Olá, eu sou o Eduardo!!
 
-- Atualmente estudando: Typescript e VueJs
+- Atualmente estudando: Typescript e Compass
 - Pronouns: ele/dele
 
 <div align="center">
