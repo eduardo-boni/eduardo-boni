@@ -2,7 +2,6 @@
        <h2>Olá eu sou o Eduardo,<br>
        estudante de Tecnologia em Sistemas de Computação!!</h2>
 
-<h3>Atualmente estudando: Typescript, Angular e Java</h3>
 <h3>Pronouns: ele/dele</h3>
 </div>
 <div align="center">
