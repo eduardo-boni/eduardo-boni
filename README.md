@@ -28,13 +28,14 @@
        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
        <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
        <img src="https://img.shields.io/badge/Angular-E44C30?style=for-the-badge&logo=angular&logoColor=white">
-       <img src="https://img.shields.io/badge/Typescript-E44C30?style=for-the-badge&logo=typescript&logoColor=white">
+       <img src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue">
+        <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=yellow">
 </div>
   
   ##
    
   <div>
          <h1>Contatos:</h1>
-    <a href="https://www.linkedin.com/in/eduardo-ishimura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduardoishimura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+    <a href="https://www.linkedin.com/in/eduardo-ishimura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alvo ="_blank"></a>
+  <a href = "mailto:eduardoishimura@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   </div>
