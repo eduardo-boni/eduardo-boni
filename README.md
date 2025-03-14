@@ -1,7 +1,7 @@
 <div aling="center">
-       <h2>Olá eu sou o Eduardo,<br>
-       estudante de Tecnologia em Sistemas de Computação!!</h2>
-
+       <h1>Olá eu sou o Eduardo,<br>
+       estudante de Desenvolvimento FullStack!!!</h1>
+       <span>##CAMINHAR SOZINHO É PERIGOSO!##</span>
 <h3>Pronouns: ele/dele</h3>
 </div>
 <div align="center">
